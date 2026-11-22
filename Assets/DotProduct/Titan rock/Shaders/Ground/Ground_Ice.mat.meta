@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12ea5dc5c3e7de740a6df793a842bd6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346134
+  packageName: Titan Rock Pack 01
+  packageVersion: 1.0
+  assetPath: Assets/DotProduct/Titan_Rock_AssetPack_01/Shaders/Ground/Ground_Ice.mat
+  uploadId: 826812

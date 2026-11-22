@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bed6536d510e22c478e7b71ff7896ef4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346134
+  packageName: Titan Rock Pack 01
+  packageVersion: 1.0
+  assetPath: Assets/DotProduct/Titan_Rock_AssetPack_01/Shaders/Ground/Ground_Moss.mat
+  uploadId: 826812

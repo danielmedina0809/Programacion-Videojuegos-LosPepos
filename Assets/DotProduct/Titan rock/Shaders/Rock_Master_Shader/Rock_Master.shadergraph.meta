@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e86b4f06ca587ac42b04fcb3278fa935
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346134
+  packageName: Titan Rock Pack 01
+  packageVersion: 1.0
+  assetPath: Assets/DotProduct/Titan_Rock_AssetPack_01/Shaders/Rock_Master_Shader/Rock_Master.shadergraph
+  uploadId: 826812
